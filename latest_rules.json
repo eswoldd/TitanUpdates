@@ -1,0 +1,44 @@
+{
+  "version": "v2026.04.30-Patch",
+  "last_updated": "2026-04-30 10:07",
+  "us_ai_tools": [
+    "openai",
+    "chatgpt",
+    "anthropic",
+    "claude",
+    "gemini",
+    "x-ai",
+    "grok",
+    "llama3-api",
+    "perplexity",
+    "cohere"
+  ],
+  "agents": [
+    "chatbot",
+    "intercom",
+    "zendesk",
+    "ai-agent",
+    "hubspot",
+    "salesforce-einstein",
+    "drift",
+    "boost.ai"
+  ],
+  "compliance_ord": [
+    "ai policy",
+    "eu ai act",
+    "artificial intelligence disclosure",
+    "iso 42001",
+    "art 52 transparency",
+    "ki-retningslinjer",
+    "data processing agreement",
+    "gdpr"
+  ],
+  "extensions": [
+    "grammarly go",
+    "monica",
+    "sider",
+    "harpa",
+    "compose-ai",
+    "copilot-extension"
+  ]
+}
